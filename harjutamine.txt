@@ -1,1 +1,2 @@
 Github on veebileht, kuhu saab üles panna teksti. Seda kasutavad inimesed, kellel läheb vaja teksti üles panna.
+Ise kavatsen kasutada Githubi nende ülesannete jaoks, mida koolis antakse.
