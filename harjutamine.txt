@@ -1,2 +1,3 @@
 Github on veebileht, kuhu saab üles panna teksti. Seda kasutavad inimesed, kellel läheb vaja teksti üles panna.
 Ise kavatsen kasutada Githubi nende ülesannete jaoks, mida koolis antakse.
+Githubi asutasid Chris Wanstrath, P. J. Hyett ja Tom Preston-Werner aastal 2008. Teenus oli kättesaadaval samal aastal.
